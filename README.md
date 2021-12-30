@@ -1,3 +1,4 @@
+Oiii eu sou a Lucas, Aluno de programação e tecnologia !
 <div align = "center">
   <a href="https://github.com/llucasgomes">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=llucasgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
