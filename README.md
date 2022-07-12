@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack Jr</h3>
 
 <p align="center">
-  <img src="" alt="Banner's Lucas"/>
+  <img src="https://github.com/llucasgomes/Perfil-Personalizado/blob/main/images/BannerGitHub.png" alt="Banner's Lucas"/>
 </p>
 
 
