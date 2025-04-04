@@ -1,70 +1,68 @@
 <h1 align="center">Lucas Gomes</h1>
 <h3 align="center">Desenvolvedor Full Stack Jr</h3>
 
-<p align="center">
-  <img src="https://github.com/llucasgomes/Perfil-Personalizado/blob/main/images/BannerGitHub.png" alt="Banner's Lucas"/>
-</p>
+## Sobre mim  
+
+Atualmente, trabalho como porteiro em uma escola de idiomas enquanto faço a transição para a área de tecnologia, minha verdadeira paixão.  
+
+Recentemente, concluí a formação em **Desenvolvimento Full Stack pela StackX**, onde aprimorei minhas habilidades em **JavaScript, TypeScript, React.js, Next.js, Node.js, bancos de dados SQL e NoSQL**, além de práticas como **TDD, BDD e versionamento com Git/GitHub**.  
+
+Com **cinco anos na segurança privada** e **três anos na área administrativa**, desenvolvi habilidades interpessoais, organização e trabalho em equipe. Durante meu estágio na **SD Tecnologia**, adquiri experiência prática no desenvolvimento de software.  
+
+Sou um profissional **dedicado, comunicativo e sempre em busca de novos desafios** para crescer na área de tecnologia. 🚀
+
+---
+
+## 📊 **GitHub Stats**
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=llucasgomes&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomes&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+</div>
 
 
-Me chamo Lucas da Silva, atualmente trabalhava como agente de portaria, zelando pelas vidas nos locais que atuava. 
+## 🛠 Skills  
 
-Eu tenho no total 05 anos na área de segurança privada e mais 03 na área administrativa. Sou apaixonado por  tecnologia. 
+### 🔹 **Linguagens & Frameworks**  
 
-Nestes anos na área administrativa, atuei como Auxiliar Administrativo e Comercial, subindo gradativamente de cargos, de Traine até Sênior.
-
-Porém, sempre foi minha <strong>paixão</strong>  atuar na área tecnológica, e no momento estou passando por uma transição de carreira para atuar onde sempre amei. 
-
-Atualmente estou cursando <strong>Dev Full Jr.</strong> na <strong>StackX - Formação de Desenvolvimento de Software</strong>,
-sempre me propus a aprender e estudar para alcançar os objetivos na minha vida profissional, entrando de cabeça e focando no aprendizado.
-
-Mesmo ainda não trabalhando na área desejada, as minhas experiências profissionais me permitiram desenvolver qualidades pessoais, tais como: mente colaborativa, bom relacionamento com colegas de trabalho e clientes. Gosto de desafios e de ser desafiado, aprendo com os erros, e sempre estou disposto a ouvir, praticar novas idéias e aprender o novo. 
-
-## Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-## Detalhes
-- 🔭 Em busca de um oportunidade na área Tech, e atualmente estudando na <strong>Stack X</strong> 
-- 🌱 Estou me aprofundando em React e Angular.
-- 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
-- 😄 Pronomes: Ele/Dele.
+### 🔹 **Banco de Dados & Backend**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-[![Lucas Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=llucasgomes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 **Ferramentas & Versionamento**  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 
 ## Conheça-me mais...
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/llucasgomess/)
 
+---
+
+## 📬 **Entre em Contato!**
+📩 **Email:** [llucas.gomes.dev@gmail.com](mailto:llucas.gomes.dev@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/llucasgomess](https://www.linkedin.com/in/llucasgomess)  
+🌐 **Portfólio:** [llucasgomes-dev.vercel.app/](https://llucasgomes-dev.vercel.app/)  
 
 
-## Repositórios Principais
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Lading-Page-iPhone&theme=dark)](https://github.com/llucasgomes/Lading-Page-iPhone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Tela-Login-BSC&theme=dark)](https://github.com/llucasgomes/Tela-Login-BSC)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=portifolio&theme=dark)](https://github.com/llucasgomes/portifolio)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Tela-Login-Star-Wars&theme=dark)](https://github.com/llucasgomes/Tela-Login-Star-Wars)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Site-Sushi&theme=dark)](https://github.com/llucasgomes/Site-Sushi)
 
